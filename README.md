@@ -1,6 +1,6 @@
 # SistematizacaoMgs2
 Sistema MGS
-Este é um sistema de gerenciamento de funcionários simples para Metal Gear Solid (MGS). Ele permite cadastrar, consultar e listar funcionários, além de armazenar informações como nome, telefone, e-mail, alergias e problemas médicos.
+Este é um sistema de gerenciamento de funcionários simples para Max Global Sports(MGS). Ele permite cadastrar, consultar e listar funcionários, além de armazenar informações como nome, telefone, e-mail, alergias e problemas médicos.
 
 Instalação
 Clone este repositório.
